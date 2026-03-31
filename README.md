@@ -124,7 +124,7 @@ sokoo/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/nilanshukumarsingh/sokoo
+git clone https://github.com/Avivarshney8/sokoo
 cd sokoo
 ```
 
@@ -227,18 +227,7 @@ npm run dev
 
 ---
 
-## 👥 Team
 
-<div align="center">
-
-|                     <img src="https://github.com/jhaanurag.png" width="100" style="border-radius:50%"/>                      |
-| :--------------------------------------------------------------------------------------------------------------------------: |
-|                                                        **Anurag Jha**                                                        |
-| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/jhaanurag) |
-
-</div>
-
-### 🤝 Collaborators
 
 We welcome contributions from the community! See our [Contributing Guide](#-contributing) below.
 
@@ -344,6 +333,6 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [Nilanshu Kumar Singh](https://github.com/nilanshukumarsingh)
+Made with ❤️ by [Avi Varshney](https://github.com/Avivarshney8)
 
 </div>
